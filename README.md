@@ -14,7 +14,7 @@ This project implements an animated carousel with interactive elements. It inclu
 ## Demo
 
 ![Demo](IMG_20240122_182451.jpg)
-[Live Demo](https://johndev19.github.io/Animated-Carousel/) - Live Demo
+- [Live Demo](https://johndev19.github.io/Animated-Carousel/)
 
 ## Features
 
